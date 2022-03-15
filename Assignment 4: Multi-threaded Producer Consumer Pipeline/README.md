@@ -1,4 +1,4 @@
-# Assignment 4: Multi-threaded Producer Cos
+# Assignment 4: Multi-threaded Producer Consumer Pipeline
 
 ## Introduction
 In this assignment, you'll write a program that will get you familiar with the use of threads, mutual exclusion and synchronization variables.
